@@ -38,6 +38,10 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
+<!-- Handlebars.js -->
+<a href="https://handlebarsjs.com" target="_blank" rel="noreferrer"> 
+<img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="40" height="40"/> 
+</a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
