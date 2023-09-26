@@ -40,7 +40,7 @@
 </a>
 <!-- Handlebars.js -->
 <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="40" height="40"/> 
+<img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="50" height="40"/> 
 </a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -48,7 +48,7 @@
 </a> 
 <!-- Express.js -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="40" height="40"/> 
+<img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="expressjs" width="40" height="40"/> 
 </a>
 <!-- React.js -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
