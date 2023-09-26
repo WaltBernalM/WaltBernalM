@@ -44,7 +44,7 @@
 </a> 
 <!-- Express.js -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="expressjs" width="40" height="40"/> 
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expressjs" width="40" height="40"/> 
 </a>
 <!-- React.js -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
