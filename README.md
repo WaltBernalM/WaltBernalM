@@ -97,6 +97,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=waltbernalm&show_icons=true&locale=en" alt="peter-kimanzi" />
 </p>
 
-<p>
+<!-- <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltbernalm&" alt="waltbernalm" />
-</p>
+</p> -->
