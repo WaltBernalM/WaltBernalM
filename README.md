@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Walter Bernal</h1>
 
 <h3 align="center">
-  A multidisciplinary Full-Stack web developer and an iOS develpoer enthusiast from Mexico
+  A full stack web developer and an iOS developer enthusiast from Mexico
 </h3>
 
 - 🔭 I’m currently open to work
