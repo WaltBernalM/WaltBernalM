@@ -78,10 +78,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a>
-<!-- Minitab -->
-<a href="https://www.minitab.com/en-us/" target="_blank" rel="noreferrer"> 
-<img src="https://scontent.fntr9-1.fna.fbcdn.net/v/t39.30808-6/348547932_1624383924734490_9215188903444863393_n.png?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGmhIAsM_N7Aa1U2uU3XtT8Z7epKUrqZTdnt6kpSuplNzCidzlfQeNt8Fklq8vPPK9xD7OhAOuQl8x5l5fXaeST&_nc_ohc=y55izG0wFUkAX8EtaIt&_nc_ht=scontent.fntr9-1.fna&oh=00_AfB_TmhLJsq6NckCoJ7i38ZkYqbKvycrRorMOygQk7F16w&oe=65170E9D" alt="minitab" width="40" height="40"/> 
-</a>
 <!-- Matlab -->
 <a href="https://www.mathworks.com/help/matlab/" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="matlab" width="40" height="40"/>
