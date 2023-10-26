@@ -22,25 +22,33 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<!-- CSS3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<!-- Swift -->
+<a href="https://www.swift.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40" height="40"/> 
 </a>
 <!-- Handlebars.js -->
 <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="50" height="40"/> 
+</a>
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a>
+<!-- CSS3 -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a>
+<!-- HTML5 -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>  
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a>
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -62,10 +70,6 @@
 <a href="https://mui.com" target="_blank" rel="noreferrer">
 <img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/>
 </a>
-<!-- Swift -->
-<a href="https://www.swift.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40" height="40"/> 
-</a>
 <!-- UIKit -->
 <a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/354484/uikit.svg" alt="uikit" width="40" height="40"/> 
@@ -81,10 +85,6 @@
 <!-- Matlab -->
 <a href="https://www.mathworks.com/help/matlab/" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="matlab" width="40" height="40"/>
-</a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a>
 </p>
 
