@@ -30,6 +30,10 @@
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40" height="40"/>
 </a>
+<!-- Java -->
+<a href="https://dev.java" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+</a>
 <!-- Handlebars.js -->
 <a href="https://handlebarsjs.com" target="_blank" rel="noreferrer"> 
 <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="50" height="40"/> 
@@ -45,10 +49,6 @@
 <!-- HTML5 -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<!-- Java -->
-<a href="https://dev.java" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </a>
 <!-- Bootstrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
