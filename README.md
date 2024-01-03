@@ -20,97 +20,68 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a>
-<!-- Swift -->
-<a href="https://www.swift.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/452110/swift.svg" alt="swift" width="40" height="40"/>
-</a>
-<!-- Java -->
-<a href="https://dev.java" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-</a>
-<!-- Handlebars.js -->
-<a href="https://handlebarsjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="handlebarsjs" width="50" height="40"/> 
-</a>
-<!-- TypeScript -->
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-</a>
-<!-- CSS3 -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a>
-<!-- HTML5 -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a>
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-</a>
-<!-- C# -->
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a>
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-</a>
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<!-- Express.js -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-<img src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="expressjs" width="40" height="40"/> 
-</a>
-<!-- React.js -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/> 
-</a> 
-<!-- Node.js -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a>
-<!-- MUI -->
-<a href="https://mui.com" target="_blank" rel="noreferrer">
-<img src="https://mui.com/static/logo.png" alt="mui" width="40" height="40"/>
-</a>
-<!-- UIKit -->
-<a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/354484/uikit.svg" alt="uikit" width="40" height="40"/> 
-</a>
-<!-- SwiftUI -->
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
-<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="swiftui" width="40" height="40"/> 
-</a>
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a>
-<!-- Azure -->
-<a href="https://learn.microsoft.com/en-us/azure/developer/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> 
-</a>
-<!-- Matlab -->
-<a href="https://www.mathworks.com/help/matlab/" target="_blank" rel="noreferrer"> 
-<img src="https://www.svgrepo.com/show/373830/matlab.svg" alt="matlab" width="40" height="40"/>
-</a>
-</p>
+---
+
+<h3>🌐 Languages and Databases</h3>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+---
+
+<h3>🚀 Frameworks and Libraries</h3>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars%20js-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=black)
+![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0078D4?style=for-the-badge&logo=swift&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Web3Js](https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+---
+
+<h3>🧰 Tools</h3>
+
+![AzureFunctions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Insonmia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![MicrosoftAzure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
+
+---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltbernalm&show_icons=true&locale=en&layout=compact" alt="kimjayden" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltbernalm&show_icons=true&locale=en&layout=compact" alt="languages" />
 </p>
 
 <p>
 &nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltbernalm&show_icons=true&locale=en" alt="peter-kimanzi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltbernalm&show_icons=true&locale=en" alt="stats" />
 </p>
 
 <!-- <p>
