@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Walter Bernal</h1>
 
 <h3 align="center">
-  A full stack web developer and an iOS developer enthusiast from Mexico
+  A fullstack developer located in Mexico.
 </h3>
 
 - 🔭 I’m currently open to work
@@ -74,16 +74,10 @@
 
 ---
 
-<p>
+<div style="display: flex; flex-wrap: wrap; align-items: center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waltbernalm&theme=nightowl" alt="github-repo-languages" style="padding-right: 10px; padding-bottom: 10px">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waltbernalm&show_icons=true&locale=en&layout=compact" alt="languages" />
-</p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waltbernalm&theme=nightowl" alt="github-stats" style="padding-right: 10px; padding-bottom: 10px">
+</div>
 
-<p>
-&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=waltbernalm&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<!-- <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waltbernalm&" alt="waltbernalm" />
-</p> -->
+<img src="https://github.r2v.ch/codewars?user=wallbm&top_languages=true&name=true&theme=nightowl&hide_clan=true" atl="codewars-stats">
