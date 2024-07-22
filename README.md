@@ -74,10 +74,12 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waltbernalm&theme=nightowl" alt="github-repo-languages" style="padding-right: 10px; padding-bottom: 10px">
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waltbernalm&theme=nightowl" alt="github-stats" style="padding-right: 10px; padding-bottom: 10px">
 </div>
 
-<img src="https://github.r2v.ch/codewars?user=wallbm&top_languages=true&name=true&theme=nightowl&hide_clan=true" atl="codewars-stats">
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.r2v.ch/codewars?user=wallbm&top_languages=true&name=true&theme=nightowl&hide_clan=true" atl="codewars-stats">
+</div>
