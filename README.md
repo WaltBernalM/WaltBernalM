@@ -74,9 +74,8 @@
 
 ---
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; text-align-center; padding-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waltbernalm&theme=nightowl" alt="github-repo-languages" style="padding-right: 10px; padding-bottom: 10px">
 
-![Top-Lan](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waltbernalm&theme=nightowl)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waltbernalm&theme=nightowl)
-
-![Code-Wars](https://github.r2v.ch/codewars?user=wallbm&top_languages=true&name=true&theme=nightowl&hide_clan=true)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=waltbernalm&theme=nightowl" alt="github-stats" style="padding-right: 10px; padding-bottom: 10px">
+</div>
