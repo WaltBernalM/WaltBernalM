@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently open to work
 
-- 📫 Reach me on: **wltrbm@gmail.com**
-
 <h3 align="left">
   Connect with me:
 </h3>
